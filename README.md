@@ -1,7 +1,7 @@
 # Measuring-Compliance-of-Consent-Revocation-on-the-Web
 Crawler and Dataset for the paper "Measuring Compliance of Consent Revocation on the Web"
 
-**Consent settings/manage/modification/withdrawal (we called it revocation) options :**
+**Consent settings/manage/modification/withdrawal (we called it revocation) options we observed in websites:**
 * Within Same Interface:
    - Icon (0 steps)
    - Option on footer (Direct option on the main landing page at the bottom of the page) / Middle of the page (1 step) 
