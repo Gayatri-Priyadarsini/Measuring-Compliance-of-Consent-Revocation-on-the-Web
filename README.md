@@ -20,7 +20,6 @@ Crawler and Dataset for the paper "Measuring Compliance of Consent Revocation on
 * No Revocation
    - No way to revoke consent
    - Mentioned but doesn’t work
-     
    - Following are the screenshots for the above two categories:
      ![diff_interface_or_no_revocation](https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/blob/main/images/2.png)
 
