@@ -1,0 +1,292 @@
+Rank,Website,Proper data collected,Banner,Icon?,Manage,Withdrawal Possible,Rejection Direct,CMP,,Revocation Method,Path,Keywords / Path,Comment,Extra comments,tcf,ot
+222,pixabay.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+23,digicert.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+25,netflix.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+27,ui.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Four steps,profile icon -> site manager -> privacy policy -> Cookies and Other Tracking Technology.,links,,,TRUE
+29,yahoo.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Yahoo EMEA Limited,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Yahoo EMEA Limited,FALSE
+31,adobe.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+32,vimeo.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,One step,cookies -> Changing Your Cookie Preferences,,,,TRUE
+33,cloudflare.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,Cookie Preferences,,,,TRUE
+34,spotify.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+37,bit.ly,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,,,,,TRUE
+38,msn.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Banner on other pages,Banner on other pages,One step,,,,OneTrust LLC,TRUE
+59,tumblr.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,"Automattic, Inc.",Suggestive or No revocation,After Login,Three steps,,,,"Automattic, Inc.",FALSE
+64,zoom.us,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+68,fastly.net,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Three steps,Privacy Policy -> cookie Policy -> you may opt-out by clicking here,,,,TRUE
+71,nytimes.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Ethyca Inc.,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Ethyca Inc.,FALSE
+73,flickr.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,FALSE
+82,criteo.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+87,forbes.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,"Ketch Kloud, Inc.",Icon,Icon,Zero steps,,,,"Ketch Kloud, Inc.",FALSE
+89,soundcloud.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+91,cnn.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+92,unity3d.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+95,theguardian.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Guardian News and Media,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Guardian News and Media,FALSE
+101,applovin.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+102,sciencedirect.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+104,bbc.co.uk,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Banner on other pages,Banner on other pages,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+109,bbc.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Banner on other pages,Banner on other pages,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+110,sourceforge.net,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,consentmanager.net,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,consentmanager.net,FALSE
+122,researchgate.net,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,Consent Preferences,,,Didomi,FALSE
+127,twitch.tv,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,,Icon,Icon,Zero steps,,,,,FALSE
+128,issuu.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,Cookiebot,Other Page,Buttons or links on other pages for settings,Two steps,,,,Cookiebot,FALSE
+130,tinyurl.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+138,weebly.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+139,reuters.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+142,dailymail.co.uk,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Associated Newspapers Ltd,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Associated Newspapers Ltd,FALSE
+144,washingtonpost.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,Privacy Policy -> Cookie notice,,,OneTrust LLC,TRUE
+145,slideshare.net,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+149,hp.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+150,linktr.ee,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+158,slack.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+159,bloomberg.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+160,nature.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Springer Nature AG & Co. KGAA,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Springer Nature AG & Co. KGAA,FALSE
+162,wsj.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+165,businessinsider.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+172,springer.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Springer Nature AG & Co. KGAA,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Springer Nature AG & Co. KGAA,FALSE
+173,go.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+178,media.net,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+179,cisco.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+180,dailymotion.com,,,,,,,DAILYMOTION SA,,,,,,,DAILYMOTION SA,FALSE
+183,stackoverflow.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+188,quora.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,confidentiality -> cookie policy ,,,OneTrust LLC,TRUE
+190,cnbc.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+191,booking.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+194,outbrain.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Cookies -> Cookies Settings,Button,,,TRUE
+195,dotomi.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+196,grammarly.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Three steps,Privacy Policy -> Cookie Policy -> How to manage your cookie preferences,,,,TRUE
+197,appsflyer.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+198,tripadvisor.com,,,,,,,OneTrust LLC,,,,,,,OneTrust LLC,TRUE
+200,weather.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+204,statista.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+205,branch.io,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+207,npr.org,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Privacy Policy -> Cookie Settings & Opt Out,button,,OneTrust LLC,TRUE
+208,time.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Ketch Kloud, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Ketch Kloud, Inc.",FALSE
+209,avast.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+210,independent.co.uk,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+211,indeed.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+212,espn.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+214,usatoday.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+219,trendmicro.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Three steps,confidentiality -> cookie notice -> how can i control cookies ,,,,TRUE
+221,surveymonkey.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+227,opendns.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Three steps,Privacy Policy -> automatic data collection tools -> change your preferences,link,,,TRUE
+228,giphy.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,Didomi,Suggestive or No revocation,Browser settings and Third-party links,Two steps,nav bar -> privacy policy ,,,Didomi,FALSE
+233,wired.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+237,scribd.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+246,cnet.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+249,speedtest.net,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for settings,Three steps,Privacy Policy -> DSAR Portal -> opt-out of the cookie-based sale and sharing of your personal information,,,OneTrust LLC,TRUE
+250,behance.net,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,"After banner interaction , manage cookies ",,,TRUE
+251,ted.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+267,webmd.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+274,salesforce.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+276,viber.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+277,cbsnews.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+278,mailchimp.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+279,intel.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Cookies -> Manage cookie settings,Icon on cookie page,,,TRUE
+281,ft.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+283,buzzfeed.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+284,yelp.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+287,tandfonline.com,,,,,,,OneTrust LLC,,,,,,,,TRUE
+291,aol.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Yahoo EMEA Limited,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Yahoo EMEA Limited,FALSE
+292,calendly.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+293,verisign.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+298,webex.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+300,nvidia.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Manage my privacy -> manage my cookies,,,,TRUE
+501,corriere.it,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,RCS MediaGroup S.p.A.,Paywall,Footer / Main / Nav Bar,One step,,Paywall,Doesn't mention payment on banner,RCS MediaGroup S.p.A.,FALSE
+501,life360.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+505,elmundo.es,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+508,pexels.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Three steps,Privacy Policy -> cookie policy -> Cookie settings,button,,,TRUE
+517,francetvinfo.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+520,deloitte.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+521,fortune.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+523,asos.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Three steps,Privacy & Cookies -> Cookie -> You can edit your cookie preferences here,link in dropdown,,OneTrust LLC,TRUE
+525,quizlet.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Three steps,privacy -> cookies -> this widget,link,,OneTrust LLC,TRUE
+526,umich.edu,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,privacy notice -> cookies preferences,button,,,TRUE
+527,redfin.com,TRUE,No Banner,Footer,Indirect manage options,Withdrawal not possible,No Banner,OneTrust LLC,Suggestive or No revocation,No Revocation,No revocation,Do not sell or share my personal information. -> cookie notice,link on privacy policy,,,TRUE
+528,typeform.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+529,macys.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+532,costco.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+539,wp.pl,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Wirtualna Polska Media S.A.,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Wirtualna Polska Media S.A.,FALSE
+542,apnews.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+544,marca.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+546,intercom.io,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+550,n-tv.de,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+554,onet.pl,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,Ringier Axel Springer Polska,Suggestive or No revocation,No Revocation,No revocation,,,,Ringier Axel Springer Polska,FALSE
+559,adroll.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,,Other Page,Buttons or links on other pages for settings,Two steps,privacy policy -> opt-out,,,,FALSE
+562,schwab.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+565,screenrant.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,,Icon,Icon,Zero steps,,,,,FALSE
+568,gsmarena.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,Transfon Ltd,Icon,Icon,Zero steps,,,,Transfon Ltd,FALSE
+572,chess.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+573,bfmtv.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,Didomi,Other Page,Buttons or links on other pages for popup,Two steps,,link on privacy policy,,Didomi,FALSE
+574,caixa.gov.br,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,AdOpt,Icon,Icon,Zero steps,,,,AdOpt,FALSE
+576,goal.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+579,ecosia.org,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+581,idnes.cz,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+583,sharethis.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,"ShareThis, Inc.",Icon,Icon,Zero steps,,,,"ShareThis, Inc.",FALSE
+584,atlassian.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for settings,Two steps,privacy policy -> click here,,,,TRUE
+585,force.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+587,otto.de,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+590,vice.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,,Suggestive or No revocation,No Revocation,No revocation,,Link to setting/CM tool not working,,,FALSE
+591,chegg.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+594,biomedcentral.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Springer Nature AG & Co. KGAA,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Springer Nature AG & Co. KGAA,FALSE
+595,kohls.com,TRUE,No Banner,Footer,Indirect manage options,Withdrawal not possible,No Banner,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,,,,,TRUE
+596,nu.nl,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+602,paloaltonetworks.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,Privacy Policy -> Cookie Notice,,,,TRUE
+607,bitdefender.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Everything Active!,Footer / Main / Nav Bar,One step,,Link to setting/CM tool not working,,,TRUE
+608,vmware.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+609,nexusmods.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+614,marketwatch.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+615,newyorker.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+688,livescore.in,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+962,brainly.in,,,,,,,,,,,,,,,FALSE
+1027,azet.sk,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+1028,1mg.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,"NextRoll, Inc ",Suggestive or No revocation,No Revocation,No revocation,,,,"NextRoll, Inc ",FALSE
+1037,njuskalo.hr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+1068,publi24.ro,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,ALZ Software Ltd (trading as Clickio),Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,ALZ Software Ltd (trading as Clickio),FALSE
+1069,diretta.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+1502,venturebeat.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+1513,slashdot.org,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,consentmanager.net,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,consentmanager.net,FALSE
+1515,spot.im,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,"NextRoll, Inc ",Suggestive or No revocation,Browser settings and Third-party links,Two steps,Legal and Privacy -> Cookie policy,,,"NextRoll, Inc ",FALSE
+1518,hollywoodreporter.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+1526,mimecast.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,Contact / Email,Two steps,,,,,TRUE
+1528,klarna.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+1534,adswizz.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+1537,ilmessaggero.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,iubenda,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,iubenda,FALSE
+1540,acronis.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+1565,icespay.com,,,,,,,,,,,,,,,FALSE
+1566,gamespot.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+1569,mparticle.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,Do Not Sell or Share My Personal Data,,,,TRUE
+1590,last.fm,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+1595,bazaarvoice.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+1596,statuspage.io,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,No Revocation,No revocation,,,,,TRUE
+1599,esquire.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2006,ask.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,One step,Privacy Policy,,,,TRUE
+2008,uisp.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2009,boredpanda.com,,,,,,,,,,,,,,,FALSE
+2012,thefreedictionary.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Farlex Inc,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Farlex Inc,FALSE
+2023,bostonglobe.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,Privacy Settings -> manage your settings here -> We can't seem to find the page you're looking for.,,,OneTrust LLC,TRUE
+2033,fifa.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,,Link to setting/CM tool not working,,OneTrust LLC,TRUE
+2037,billboard.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+2039,jpost.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,One step,Privacy Policy,,,OneTrust LLC,TRUE
+2041,softonic.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+2042,sketchfab.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Three steps,privacy policy -> cookie policy -> manage cookies,,,,TRUE
+2048,tamilyogi.plus,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+2051,thomsonreuters.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2053,kpmg.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2061,deadline.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+2062,yumpu.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2063,lonelyplanet.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+2071,patch.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,links,,OneTrust LLC,TRUE
+2075,irishtimes.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2076,thingiverse.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,Cookiebot,Icon,Icon,Zero steps,,,,Cookiebot,FALSE
+2078,ow.ly,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2083,timeout.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,InMobi PTE Ltd,FALSE
+2085,mcdonalds.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2094,nobelprize.org,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+2096,over-blog.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+2510,wired.co.uk,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2521,derstandard.at,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Nav bar,Buttons or links on other pages for popup,Two steps,,Nav bar,,"Sourcepoint Technologies, Inc.",FALSE
+2523,blackberry.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+2524,techrepublic.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+2526,csmonitor.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2530,20minutes.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+2532,elespanol.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+2534,denverpost.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Icon,Icon,Zero steps,,,,"Osano, Inc.",FALSE
+2536,nbcsports.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2538,loom.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2543,bigcommerce.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2545,elconfidencial.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,Withdrawal doesn't lead to payment,Didomi,FALSE
+2546,mediaset.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,iubenda,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,iubenda,FALSE
+2550,premierleague.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+2551,coca-cola.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+2568,ibtimes.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,SIRDATA,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,SIRDATA,FALSE
+2580,liveabout.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2581,radiofrance.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+2584,eatingwell.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+2596,celtra.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+3001,247sports.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,OneTrust LLC,TRUE
+3001,arkoselabs.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3006,binance.info,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3007,freep.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+3010,france.tv,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+3011,gmu.edu,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,Two steps,privacy policy -> cookie policy,,,,TRUE
+3018,pagesix.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for settings,Two steps,Your California Privacy Rights -> Manage Cookies,Link to setting/CM tool not working,,OneTrust LLC,TRUE
+3019,health.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+3021,gameloft.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+3024,lesechos.fr,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,Didomi,Other Page,Buttons or links on other pages for popup,Two steps,cookies -> manage cookies,,,Didomi,FALSE
+3028,20min.ch,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Nav bar,Footer / Main / Nav Bar,Two steps,,Nav ,,OneTrust LLC,TRUE
+3032,quantcast.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+3036,gazeta.pl,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+3039,baltimoresun.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+3044,oregonlive.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3047,kotaku.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+3055,francebleu.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+3059,cadenaser.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+3063,blick.ch,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Other Page,Footer / Main / Nav Bar,Two steps,Nav bar -> data protection,,,OneTrust LLC,TRUE
+3072,thetrainline.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Privacy Policy -> Choose cookies,Button,,OneTrust LLC,TRUE
+3077,worldtimeserver.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,"Mediavine, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Mediavine, Inc.",FALSE
+3082,elementor.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3083,paycomonline.net,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3099,sketchup.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3501,sky.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+3505,ilfattoquotidiano.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,iubenda,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,iubenda,FALSE
+3517,semana.com,TRUE,No Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,OneTrust LLC,Suggestive or No revocation,No Revocation,No revocation,,,,,TRUE
+3523,tim.it,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+3533,spiceworks.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for settings,Three steps,Do Not Sell my Personal Information -> opt out of the sale and sharing of my personal information -> Opt out,,,OneTrust LLC,TRUE
+3540,jigsawplanet.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Cookiebot,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Cookiebot,FALSE
+3551,postman.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3552,chefkoch.de,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,"Sourcepoint Technologies, Inc.",Paywall,Footer / Main / Nav Bar,One step,,Paywall,,"Sourcepoint Technologies, Inc.",FALSE
+3553,comodo.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,No Revocation,No revocation,,,,,TRUE
+3562,amazon.se,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,Amazon Advertising,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Amazon Advertising,FALSE
+3567,al.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3568,thenationalnews.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3569,manchestereveningnews.co.uk,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+3575,swagbucks.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3578,tanium.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+3589,sport1.de,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,Direct reject option,"Sourcepoint Technologies, Inc.",Paywall,Footer / Main / Nav Bar,One step,,Paywall,,"Sourcepoint Technologies, Inc.",FALSE
+3592,lavozdegalicia.es,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+3596,cio.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+3599,nuance.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+3882,illinois.edu,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,OneTrust LLC,Everything Active!,Footer / Main / Nav Bar,One step,About Cookies,Link to setting/CM tool not working,,,TRUE
+4013,ml.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4016,ilsole24ore.com,,,,,,,,,,,,,,,FALSE
+4019,carrefour.es,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4025,heute.at,,,,,,,,,,,,,,,FALSE
+4028,brightspace.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Privacy Policy -> Cookie settings,,,,TRUE
+4033,grubhub.com,,,,,,,,,,,,,,,FALSE
+4036,nrdc.org,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,No Revocation,No revocation,,,,,TRUE
+4055,gitlab.io,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4057,newsday.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4059,telemundo.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,OneTrust LLC,Suggestive or No revocation,Browser settings and Third-party links,One step,Cookie Notice,,,,TRUE
+4063,windguru.cz,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Indirect reject option,,Other Page,Buttons or links on other pages for popup,Two steps,Privacy Policy -> Click here to manage your consents for personalized advertising on windguru,,,,FALSE
+4064,marvel.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4082,mheducation.com,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Icon,Icon,Zero steps,,,,,TRUE
+4087,money.pl,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Wirtualna Polska Media S.A.,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Wirtualna Polska Media S.A.,FALSE
+4089,springeropen.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,Springer Nature AG & Co. KGAA,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Springer Nature AG & Co. KGAA,FALSE
+4091,canon.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,privacy -> cookie settings,button,,,TRUE
+4093,walesonline.co.uk,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,InMobi PTE Ltd,Icon,Icon,Zero steps,,,,InMobi PTE Ltd,FALSE
+4097,thespruceeats.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4099,nzz.ch,,,,,,,,,,,,,,,FALSE
+4099,boeing.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4501,novosti.rs,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Indirect reject option,consentmanager.net,Icon,Icon,Zero steps,,,,consentmanager.net,FALSE
+4501,dotloop.com,TRUE,No Banner,Footer,Direct manage options,Withdrawal possible,No Banner,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4512,viki.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Sourcepoint Technologies, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Sourcepoint Technologies, Inc.",FALSE
+4522,15min.lt,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,InMobi PTE Ltd,Everything Active!,No Revocation,No revocation,Nav bar -> privacy policycookie control,,,InMobi PTE Ltd,FALSE
+4526,netlify.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Other Page,Buttons or links on other pages for popup,Two steps,Privacy Policy -> Cookie Settings,Link to setting/CM tool not working,,,TRUE
+4527,intimissimi.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4529,bling.com.br,TRUE,Banner,Icon,Direct manage options,Withdrawal possible,Direct reject option,AdOpt,Icon,Icon,Zero steps,,,,AdOpt,FALSE
+4532,megaphone.fm,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4550,symbolab.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4552,gala.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,"Sourcepoint Technologies, Inc.",Paywall,Footer / Main / Nav Bar,One step,,Paywall,Doesn't mention payment on banner,"Sourcepoint Technologies, Inc.",FALSE
+4556,corel.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4557,purepeople.com,TRUE,Banner,Footer,Direct manage options,Withdrawal not possible,No option,Didomi,Paywall,Footer / Main / Nav Bar,One step,,Paywall,,Didomi,FALSE
+4558,avaaz.org,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4559,lrytas.lt,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,InMobi PTE Ltd,Suggestive or No revocation,No Revocation,No revocation,,,,InMobi PTE Ltd,FALSE
+4561,auchan.fr,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4566,klix.ba,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,Didomi,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,Didomi,FALSE
+4570,orlandosentinel.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,"Osano, Inc.",Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,"Osano, Inc.",FALSE
+4573,record.pt,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Indirect reject option,InMobi PTE Ltd,Suggestive or No revocation,Contact / Email,One step,Privacy Policy,,,InMobi PTE Ltd,FALSE
+4574,epicurious.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,OneTrust LLC,TRUE
+4584,chess-results.com,TRUE,Banner,Footer,Indirect manage options,Withdrawal not possible,Direct reject option,Cookiebot,Suggestive or No revocation,Contact / Email,One step,,,,Cookiebot,FALSE
+4585,winzip.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4588,paylocity.com,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Indirect reject option,OneTrust LLC,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,,TRUE
+4596,portfolio.hu,TRUE,Banner,Footer,Direct manage options,Withdrawal possible,Direct reject option,InMobi PTE Ltd,Footer/Main page/Nag bar,Footer / Main / Nav Bar,One step,,,,InMobi PTE Ltd,FALSE
