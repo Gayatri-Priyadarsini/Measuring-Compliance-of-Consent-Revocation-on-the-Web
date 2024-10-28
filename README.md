@@ -10,7 +10,7 @@ Crawler and Dataset for the paper "Measuring Compliance of Consent Revocation on
    - Options on other pages (Multiple steps):
       - Check boxes and toggle buttons on the other pages (between text) 
       - Button, link leading to a popup banner on other pages.
-   - Following are the screenshots for the above categories:
+   - Following are the screenshots for the above sub-categories:
       ![same_interface](https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/blob/main/images/1.png)
 * Via Different Interface
    - Browser Settings and Third-party links
