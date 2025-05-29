@@ -44,7 +44,7 @@ By analysing the revocation interface, we have found that only 51% (82 of 158 we
  - These violations are found on popular websites such as apple.com, wordpress.org, medium.com, and discord.com.
 
 <p align="center">
-  <img src="https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/edit/main/images/figure1.png" alt="Figure 1: Different interface to revoke consent " width="500"/>
+  <img src="https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/blob/main/images/figure1.png" alt="Figure 1: Different interface to revoke consent " width="500"/>
   <br>
   <em> Consent revocation on https://apple.com, accessed on 20th May 2025. The user can only revoke consent by visiting a privacy policy page and searching for “cookie”, where the only available options are to delete cookies from the browser settings to revoke consent.
 </em>
@@ -59,7 +59,7 @@ By analysing the revocation interface, we have found that only 51% (82 of 158 we
  - These violations are found on popular websites of big tech such as goog.gl, twitter.com, google.com and tiktok.com.   
 
 <p align="center">
-  <img src="https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/edit/main/images/figure2.png" alt="Figure 2: Different effort to revoke consent than to grant consent " width="500"/>
+  <img src="https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web/blob/main/images/figure2.png" alt="Figure 2: Different effort to revoke consent than to grant consent " width="500"/>
   <br>
   <em>Consent revocation on http://goo.gl, accessed on 20th May 2025. The user can only revoke consent by visiting a privacy policy page and searching for “cookies”(Step 3), to further look for an option to modify or revoke their consent. In step 7, the user finally reaches the link to open a banner(screenshot not included), which is different from the initial banner(step 1).</em>
 </p>
