@@ -7,7 +7,7 @@ Artifacts HotCRP Id: **39** (not your paper Id, but the artifacts id)
 Requested Badge: **Available**
 
 ## Description
-A short description of your artifact and how it links to your paper.
+This repository contains the scripts and datasets(links incase of bigger datasets) and results discussed in our paper. 
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 None
