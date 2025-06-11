@@ -405,7 +405,7 @@ def flatten_dict(data):
 
 
 
-df2 = pd.read_csv('200.csv')
+df2 = pd.read_csv('List_of_websites/top_200.csv')
 
 df3 = pd.read_csv('withdrawal_not_possible.csv')
 
@@ -417,7 +417,8 @@ fieldnames = ['Rank','Website','curr_cookies','curr_ls','curr_tcs','ano','unique
 
 print(fieldnames)
 
-with open('a.csv',mode='w',newline='') as csv_file:
+with open('anomalies_after_acceptance.csv',mode='w',newline='') as csv_file: # Creates a csv which has network data, cookies, localstorage, and tcfstring returned by tcfapi to find inconsistencies discussed in RQ3 and RQ4. 
+# with open('anomalies_after_revocation.csv',mode='w',newline='') as csv_file: # Creates similar csv, but for "after revocation stage"
     writer = csv.writer(csv_file)
     writer.writerow(fieldnames)
     #blah=["forbes.com","aol.com","newsday"]
