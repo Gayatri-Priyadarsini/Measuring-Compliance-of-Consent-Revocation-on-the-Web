@@ -30,9 +30,10 @@ Out of 281 websites with CMPs, 251 allowed users to revoke consent. We then chec
 ```bash
 git clone https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consent-Revocation-on-the-Web.git
 ```
-#### Data collection script: Selenium-Based Setup and Instructions to run fetch_[preferred_OS].py
+### Data collection script: 
+Selenium-Based Setup and Instructions to run fetch_[preferred_OS].py (please refer to Fig 1 in the paper for a better picture):
 
-These scripts are available in the crawler_scripts folder in the repository.
+These scripts are available in the crawler_scripts folder in the repository. 
 
 Prerequisites:
 - `CookieBlock 1.1.0.0.crx` — Chrome extension for cookie management
@@ -66,7 +67,7 @@ The script:
 
 All results are stored in a new folder named after the domain you entered.
 
-#### Data analysis scripts (available in util_scripts folder)
+### Data analysis scripts (available in util_scripts folder)
 
 We use different scripts for analysis purpose (please refer to Fig 2 in the paper for a better picture): 
 - The parse_path.py script makes a CSV file from the data collected discussed in the previous section about the interaction with the website. These CSVs were used for data analysis for RQ1 
