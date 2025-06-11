@@ -21,6 +21,7 @@ Out of 281 websites with CMPs, 251 allowed users to revoke consent. We then chec
 
 - **66%** of these 251 websites either kept positive consent after revocation or failed to notify third parties that the consent had been withdrawn.
 
+[Read more about the results on our website]()
 ---
 
 ### Setup
