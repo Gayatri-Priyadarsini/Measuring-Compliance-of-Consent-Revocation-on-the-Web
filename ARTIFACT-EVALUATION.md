@@ -2,7 +2,7 @@
 
 Paper title: **Johnny Can’t Revoke Consent Either:Measuring Compliance of Consent Revocation on the Web**
 
-Artifacts HotCRP Id: **#Enter your HotCRP Id here** (not your paper Id, but the artifacts id)
+Artifacts HotCRP Id: **39** (not your paper Id, but the artifacts id)
 
 Requested Badge: **Available**
 
