@@ -108,7 +108,7 @@ def parse_json_file(url,file_path):
     websites2[url]=[[n1,nec1],[f1,fun1],[an1,ana1],[ad1,adv1],[un1,udef1]]
     writer.writerow([df2['Rank'][id],df2['Websites'][id],n1,nec1,f1,fun1,an1,ana1,ad1,adv1,un1,udef1,cookie_block,selenium_c])
     #writer.writerow([df2['Rank'][id],df2['Websites'][id],n,nec,f,fun,an,ana,ad,adv,un,udef,cookie_block,selenium_c])
-df2 = pd.read_csv('200.csv')
+df2 = pd.read_csv('../List_of_websites/top_200.csv')
 
 print(df2.keys())
 
@@ -121,7 +121,7 @@ with open('jj.csv',mode='w',newline='') as csv_file:
     for url in df2['Websites']:
         print(url)
         id=id+1
-        file_path = f"{url}/browsing_data3.json"
+        file_path = f"dataset_1/{url}/browsing_data3.json"
         try:
             cookies=parse_json_file(url,file_path)
         except Exception as e:
