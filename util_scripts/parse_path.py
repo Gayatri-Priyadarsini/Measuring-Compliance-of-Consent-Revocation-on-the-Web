@@ -8,7 +8,7 @@ def parse_path(file_path):
         #print(da)
         return da
 
-df2 = pd.read_csv('List_of_websites/top_200.csv') #For RQ1 and RQ2
+df2 = pd.read_csv('../List_of_websites/top_200.csv') #For RQ1 and RQ2
 # df2 = pd.read_csv('List_of_websites/top_201_5k.csv') For RQ3 and RQ4
 
 
