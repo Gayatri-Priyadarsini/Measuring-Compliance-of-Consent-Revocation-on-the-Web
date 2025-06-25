@@ -4,3 +4,6 @@ The prompts are as follwing:
 2. Enter 'i1' if you an icon, 'i2' if you don't
 3. Enter 's1' if it took just one step to open the banner, 's2' if you had to scroll through multiple pages to find an option to find an interface(link to open pop up, checkbox, button to open pop up,toggle button)
 4. Finally enter 'w1' if you could withdraw or 'w2' if you were just suggested something about revocation/withdrawal in the privacy,cookie policies or similar pages.  
+
+
+The crawl results can be found (here)[https://zenodo.org/records/15732946]
