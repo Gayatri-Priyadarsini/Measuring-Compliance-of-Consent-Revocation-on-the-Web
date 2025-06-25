@@ -258,7 +258,7 @@ def tcstring(file_path):
 def get_tccookie(url):
     l=[]
     try:
-        file_path = f"{url}/browsing_data1.json"  # Change this to the actual file path
+        file_path = f"/home/usenix/Desktop/dataset_3/{url}/browsing_data1.json"  # Change this to the actual file path
         with open(file_path, 'r') as json_file:
             data = json.load(json_file)
             list_cookies = data.get('cookies', [])
@@ -285,7 +285,7 @@ def get_tccookie(url):
 
 def get_tcstring(url):
     try:
-        file_path = f"{url}/browsing_data1.json"  # Change this to the actual file path
+        file_path = f"/home/usenix/Desktop/dataset_3/{url}/browsing_data1.json"  # Change this to the actual file path
         tcs=tcstring(file_path)
         #print(tcs)
         return tcs
@@ -297,7 +297,7 @@ def get_tcstring(url):
 def get_tcls(url):
     l=[]
     try:
-        file_path = f"{url}/browsing_data1.json"
+        file_path = f"/home/usenix/Desktop/dataset_3/{url}/browsing_data1.json"
         with open(file_path, 'r') as json_file:
             data = json.load(json_file)
             #indexeddb = data.get('indexeddb', {})
@@ -405,7 +405,7 @@ def flatten_dict(data):
 
 
 
-df2 = pd.read_csv('List_of_websites/top_200.csv')
+df2 = pd.read_csv('../List_of_websites/top_200.csv')
 
 df3 = pd.read_csv('withdrawal_not_possible.csv')
 
@@ -424,7 +424,7 @@ with open('anomalies_after_acceptance.csv',mode='w',newline='') as csv_file: # C
     #blah=["forbes.com","aol.com","newsday"]
     websites={}
     id=-1
-    for url in df2['Website']:
+    for url in df2['Websites']:
         
     #for url in url_list:
         if url not in ll:
@@ -434,7 +434,7 @@ with open('anomalies_after_acceptance.csv',mode='w',newline='') as csv_file: # C
             print("==============",url,"==============")
             
             try:
-                file_path = f"{url}/res1.json"  # Change this to the actual file path
+                file_path = f"/home/usenix/Desktop/dataset_3/{url}/res1.json"  # Change this to the actual file path
                 return_obj1=parse_json_file(file_path)
                 print(len(return_obj1.keys()))
                 entries={}

@@ -1,8 +1,8 @@
 import pandas as pd
 import ast
 # File path
-file_path1 = 'jjj.csv'
-file_path2='rr.csv'
+file_path1 = 'acceptance.csv' # output files from parse_cookies_category_wise.py
+file_path2='rejection.csv'
 #file_path3= 'withdrawal_not_possible.csv'
 # Read the CSV file into a DataFrame
 df1 = pd.read_csv(file_path1)

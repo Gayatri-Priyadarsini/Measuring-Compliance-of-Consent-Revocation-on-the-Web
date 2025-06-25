@@ -35,12 +35,8 @@ def parse_json_file(url,file_path):
                 #print(data)
                 #p=JSON.parse(data)
                 #dad=data.split()
-                #data = data.replace("\\","")
-                #data = data.replace('""',"")
-                dad = data.replace("\\","")
-                dad = dad.replace(':"",',':" ",')
-                dad = dad.replace('""','"')
-                print()
+                data = data.replace("\\","")
+                data = data.replace('""',"")
                 #cb=None
                 #print(c)
                 #try:
@@ -48,7 +44,7 @@ def parse_json_file(url,file_path):
                 #cb=json.loads(c_json)
                 #print(len(cb))
                 #print(data)
-                cb=json.loads(dad)
+                cb=json.loads(data)
                 for b in cb:
                     #print(b)
                     if b['current_label']==0:
@@ -81,55 +77,54 @@ def parse_json_file(url,file_path):
         for c in list_cookies:            
             value=c['value']
             name=c['name']
-            do=c['domain']
 
             if name in nec:
                 n1=n1+1
-                nec1.append([name,do])
+                nec1.append(name)
             
             elif name in fun:
                 f1=f1+1
-                fun1.append([name,do])
+                fun1.append(name)
             
             elif name in ana:
                 an1=an1+1
-                ana1.append([name,do])
+                ana1.append(name)
 
             elif name in adv:
                 ad1=ad1+1
-                adv1.append([name,do])
+                adv1.append(name)
             else:
                 un1=un1+1
-                udef1.append([name,do])
+                udef1.append(name)
     cookie_block=n+f+an+ad+un
     selenium_c=len(list_cookies)
     print(cookie_block,selenium_c)
     websites[url]=[[n,nec],[f,fun],[an,ana],[ad,adv],[un,udef]]
     websites2[url]=[[n1,nec1],[f1,fun1],[an1,ana1],[ad1,adv1],[un1,udef1]]
-    writer.writerow([df2['Rank'][id],df2['Websites'][id],n1,nec1,f1,fun1,an1,ana1,ad1,adv1,un1,udef1,cookie_block,selenium_c])
-    #writer.writerow([df2['Rank'][id],df2['Websites'][id],n,nec,f,fun,an,ana,ad,adv,un,udef,cookie_block,selenium_c])
+    #writer.writerow([df2['Rank'][id],df2['Websites'][id],n1,nec1,f1,fun1,an1,ana1,ad1,adv1,un1,udef1,cookie_block,selenium_c])
+    writer.writerow([df2['Rank'][id],df2['Websites'][id],n,nec,f,fun,an,ana,ad,adv,un,udef,cookie_block,selenium_c])
 df2 = pd.read_csv('../List_of_websites/top_200.csv')
 
 print(df2.keys())
 
 
-fieldnames=['Rank','Website','Count-N','N','Count-F','F','Count-Ana','Ana','Count-Ad','Ad','Undefined','Un']  
-with open('jj.csv',mode='w',newline='') as csv_file:
+fieldnames=['Website','Count-N','N','Count-F','F','Count-Ana','Ana','Count-Ad','Ad','Undefined','Un']  
+with open('acceptance.csv',mode='w',newline='') as csv_file: # save the output files phase-wise to use at input to cookie_diff.py 
     writer = csv.writer(csv_file)
     writer.writerow(fieldnames)
     id=-1
     for url in df2['Websites']:
         print(url)
         id=id+1
-        file_path = f"dataset_1/{url}/browsing_data3.json"
+        file_path = f"/home/usenix/Desktop/dataset_1_2/rev/{url}/browsing_data1.json" # change for each phase. browsing_data0.json for Intial phase, browsing_data1.json for acceptance, browsing_data2.json for after revocation and browsing_data3.json for after rejection.
         try:
             cookies=parse_json_file(url,file_path)
         except Exception as e:
-            print(url,e)
+            print(e)
             websites[url]=[[],[],[],[],[]]
-            writer.writerow([df2['Rank'][id],df2['Websites'][id],'',[],'',[],'',[],'',[],'',[],'',''])
+            writer.writerow([df2['Websites'][id],'',[],'',[],'',[],'',[],'',[],'',''])
 
     #writer.writerow([df2['Rank'][id],df2['Website'][id],n,nec,f,fun,an,ana,ad,adv])
 
-#print(websites)
-#print(websites2)
+print(websites)
+print(websites2)
