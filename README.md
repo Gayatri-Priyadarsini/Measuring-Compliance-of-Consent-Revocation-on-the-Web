@@ -70,8 +70,9 @@ The script:
 All results are stored in a new folder named after the domain you entered.
 
 ### Data analysis scripts (available in util_scripts folder)
-
-We use different scripts for analysis purpose (please refer to Fig 2 in the paper for a better picture): 
+We use different scripts(available in util_scripts folder) for analysis purpose (please refer to Fig 2 in the paper for a better picture): 
 - The parse_path.py script makes a CSV file from the data collected discussed in the previous section about the interaction with the website. These CSVs were used for data analysis for RQ1 
-- The parse_cookies_category_wise.py and cookies_diff.py was used to create CSV files with number of categorised cookies for each website. This CSV was further used to find the difference between the categorised cookies at each stage(initial, acceptance, revocation and rejection) for the data analysis for RQ2.
-- The inconsistencies.py produces CSV file with all the data collected discussed in the previous section , specifically, network requests and responses containing TCStrings, cookies and localstorage containing TCStrings and the TCString being returned by the tcfapi(). This CSV was further used for analysis for RQ3 and RQ4. 
+- The parse_cookies_category_wise.py is used to create a CSV file for cookies generated in each phase of the four phases of data collection(initial,after acceptance, after revocation and after rejection) and cookies_diff.py is used to get a difference in the number of cookies between the different phases for the data analysis for RQ2.
+- The inconsistencies.py produces CSV file with all the data collected discussed in the previous section , specifically, network requests and responses containing TCStrings, cookies and localstorage containing TCStrings and the TCString being returned by the tcfapi(). This CSV was further used for analysis for RQ3 and RQ4.
+
+Some specific details to run the scripts can be found in the readme.md of 'util_scripts' folder. 
