@@ -1,0 +1,7 @@
+selenium==4.12.0
+webdriver-manager==3.8.6
+pandas==2.2.2
+nltk==3.8.1
+beautifulsoup4==4.12.3
+iab-tcf==2.0.5
+numpy==1.26.4
