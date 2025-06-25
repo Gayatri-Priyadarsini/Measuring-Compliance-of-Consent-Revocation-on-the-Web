@@ -65,6 +65,7 @@ The script:
 - Takes screenshots.
 - Saves network requests.
 - Repeats this across different consent states.
+- More details in the README.md file in the Crawler_scripts folder.  
 
 All results are stored in a new folder named after the domain you entered.
 
