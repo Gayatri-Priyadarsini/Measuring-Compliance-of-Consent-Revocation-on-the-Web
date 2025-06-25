@@ -1,0 +1,9 @@
+This folder contains the scripts for the data analysis phase:
+
+We use different scripts(available in util_scripts folder) for analysis purpose (please refer to Fig 2 in the paper for a better picture): 
+- The parse_path.py script makes a CSV file from the data collected discussed in the previous section about the interaction with the website. These CSVs were used for data analysis for RQ1
+  - This file uses the data which has been crawled for each website. You can either use the outputs from running the script in 'Crawler_scripts' folder or use our dataset_1_2 available [here](https://zenodo.org/records/15736754). Please remember to change the path of the dataset_1_2 accordingly. 
+- The parse_cookies_category_wise.py is used to create a CSV file for cookies generated in each phase of the four phases of data collection(initial,after acceptance, after revocation and after rejection) and cookies_diff.py is used to get a difference in the number of cookies between the different phases for the data analysis for RQ2.
+  - - This file uses the data which has been crawled for each website. You can either use the outputs from running the script in 'Crawler_scripts' folder or use our dataset_1_2 available [here](https://zenodo.org/records/15736754). Please remember to change the path of the dataset_1_2 accordingly. 
+- The inconsistencies.py produces CSV file with all the data collected discussed in the previous section , specifically, network requests and responses containing TCStrings, cookies and localstorage containing TCStrings and the TCString being returned by the tcfapi(). This CSV was further used for analysis for RQ3 and RQ4.
+ - - This file uses the data which has been crawled for each website. You can either use the outputs from running the script in 'Crawler_scripts' folder or use our dataset_3 available [here](https://zenodo.org/records/15736754). Please remember to change the path of the dataset_3 accordingly. 
