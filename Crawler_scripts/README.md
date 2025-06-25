@@ -1,4 +1,4 @@
-The crawlers initially open the cookie block tabs, YOU MANUALLY HAVE to switch to the chrome settings tab(it is open), and click on delete browsing history. Then the url opens the webpage and you will be prompted to enter a few characters about the observations made while visiting the website. 
+The crawlers initially open the cookie block tabs, YOU MANUALLY HAVE to switch to the chrome settings tab(it is open), and click on delete browsing history. Then the url opens the webpage and you will be prompted to enter a few characters about the observations made while visiting(YOU HAVE TO MANUALLY BROWSE) the website. 
 The prompts are as follwing:
 1. Enter 'b1' if you see a banner, 'b2' if you don't see a banner
 2. Enter 'i1' if you an icon, 'i2' if you don't
