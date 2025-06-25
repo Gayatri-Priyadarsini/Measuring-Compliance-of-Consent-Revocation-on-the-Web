@@ -5,7 +5,7 @@
 _Accepted at [PETS 2025](https://petsymposium.org/2025/), Washington DC, July 14–19, 2025_  
 [Read the full paper](https://arxiv.org/abs/2411.15414)
 
-[Full dataset and VM](https://zenodo.org/records/15732946)
+[Full dataset and VM](https://zenodo.org/records/15739186)
 
 Our new study reveals widespread non-compliance with GDPR consent revocation requirements. Just 22.7% of Top 200 sites get consent revocation right! 
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 - Place the extension file CookieBlock 1.1.0.0.crx in the same directory as fetch_linux.py
 
 (Optional) Setup VM:
-- We have shared a VM in case any of the above steps don't work on your system. The VM can be found [here](https://zenodo.org/records/15736754)
+- We have shared a VM in case any of the above steps don't work on your system. The VM can be found [here](https://zenodo.org/records/15739186)
 - Instructions to use the VM
     - Password: secpriv22
     - On the Desktop, you will find the same repository.
