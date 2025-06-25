@@ -25,7 +25,7 @@ reject=[]
 for url in url_list:
     
     try:
-        file_path = f"{url}/path.txt"  # Change this to the actual file path
+        file_path = f"../Datasets/dataset_1_2/rev/{url}/path.txt"  # Change this to the actual file path
         path=parse_path(file_path)
         p=ast.literal_eval(path)
 
