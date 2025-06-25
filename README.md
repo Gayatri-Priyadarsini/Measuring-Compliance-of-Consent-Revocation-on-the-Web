@@ -4,8 +4,8 @@
 
 _Accepted at [PETS 2025](https://petsymposium.org/2025/), Washington DC, July 14–19, 2025_  
 [Read the full paper](https://arxiv.org/abs/2411.15414)
-[Full dataset](https://zenodo.org/records/15732946)
 
+[Full dataset and VM](https://zenodo.org/records/15732946)
 
 Our new study reveals widespread non-compliance with GDPR consent revocation requirements. Just 22.7% of Top 200 sites get consent revocation right! 
 
@@ -45,12 +45,20 @@ Prerequisites:
   - Chrome user profile directory (Default)
 
 Setup Instrutions: 
-- Ensure Python 3.8+ is installed. Then install required Python packages:
+- Ensure Python 3.8+ is installed. Then install the required Python packages:
 ```bash
-pip install selenium webdriver-manager
+pip install -r requirements.txt
 ```
 - Edit the paths for chrome executable and chromedriver
 - Place the extension file CookieBlock 1.1.0.0.crx in the same directory as fetch_linux.py
+
+(Optional) Setup VM:
+- We have shared a VM in case any of the above steps don't work on your system. The VM can be found [here](https://zenodo.org/records/15736754)
+- Instructions to use the VM
+    - Password: secpriv22
+    - On the Desktop, you will find the same repository.
+    - The dataset_1_2 and dataset_3 are also on the Desktop, the util files refer to these files for analysis.
+    - Instructions to run the files are available in the readme.md file in both 'Crawler_scripts' and 'util_scripts' of this github repository.  
 
 Running the script:
 
