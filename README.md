@@ -37,7 +37,7 @@ Selenium-Based Setup and Instructions to run fetch_[preferred_OS].py (please ref
 These scripts are available in the crawler_scripts folder in the repository. 
 
 Prerequisites:
-- `CookieBlock 1.1.0.0.crx` — Chrome extension for cookie management
+- `CookieBlock 1.1.0.0.crx` — Chrome extension for cookie management. **Please note that the extension works with Chrome version 122.0.6261.128.** 
 - Requirements:
   - Google Chrome browser (with profile support)
   - ChromeDriver binary
