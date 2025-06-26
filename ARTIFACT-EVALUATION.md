@@ -41,7 +41,7 @@ git clone https://github.com/Gayatri-Priyadarsini/Measuring-Compliance-of-Consen
 #### Data collection script: Selenium-Based Setup and Instructions to run fetch_[preferred_OS].py
 
 Prerequisites:
-- `CookieBlock 1.1.0.0.crx` — Chrome extension for cookie management
+- `CookieBlock 1.1.0.0.crx` — Chrome extension for cookie management. **Please note that the extension works with Chrome version 122.0.6261.128.** 
 - Requirements:
   - Google Chrome browser (with profile support)
   - ChromeDriver binary
@@ -51,7 +51,7 @@ Prerequisites:
 Setup Instrutions: 
 - Ensure Python 3.8+ is installed. Then install required Python packages:
 ```bash
-pip install selenium webdriver-manager
+pip install selenium==4.7.2 webdriver-manager
 ```
 - Edit the paths for chrome executable and chromedriver
 - Place the extension file CookieBlock 1.1.0.0.crx in the same directory as fetch_linux.py
