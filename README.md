@@ -50,7 +50,8 @@ Setup Instrutions:
 pip install -r requirements.txt
 ```
 - Edit the paths for chrome executable and chromedriver
-- Place the extension file CookieBlock 1.1.0.0.crx in the same directory as fetch_linux.py
+- Place the extension file CookieBlock 1.1.0.0.crx in the same directory as fetch_linux.py.
+- **Please note that the extension works with Chrome version 122.0.6261.128.** 
 
 (Optional) Setup VM:
 - We have shared a VM in case any of the above steps don't work on your system. The VM can be found [here](https://zenodo.org/records/15739186)
